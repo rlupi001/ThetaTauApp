@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Sam</string>
+		<string>Soto</string>
+		<string>Electrical</string>
+		<string>Omega Xi</string>
+		<string>86</string>
+	</array>
+	<array>
+		<string>Steven</string>
+		<string>Sanabria</string>
+		<string>Computer Science</string>
+		<string>Iota</string>
+		<string>91</string>
+	</array>
+	<array>
+		<string>Alicia</string>
+		<string>Felix</string>
+		<string>Computer Science</string>
+		<string>Delta Eta</string>
+		<string>13</string>
+	</array>
+	<array>
+		<string>Michael</string>
+		<string>Salerno</string>
+		<string>Computer Science</string>
+		<string>Iota</string>
+		<string>94</string>
+	</array>
+	<array>
+		<string>Andrea Lorena</string>
+		<string>Fajardo</string>
+		<string>Enviromental</string>
+		<string>Iota Delta</string>
+		<string>48</string>
+	</array>
+	<array>
+		<string>Andres</string>
+		<string>Pena</string>
+		<string>Biomedical</string>
+		<string>Omega Xi</string>
+		<string>15</string>
+	</array>
+</array>
+</plist>
