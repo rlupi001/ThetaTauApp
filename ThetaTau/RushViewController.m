@@ -2,7 +2,7 @@
 //  RushViewController.m
 //  ThetaTau
 //
-//  Created by David Oramas on 3/25/14.
+//  Created by Ripley Lupine David Oramas on 3/25/14.
 //  Copyright (c) 2014 David Oramas. All rights reserved.
 //
 
@@ -59,7 +59,7 @@
     
 }
 
-//Social network Methods..
+//Social network Methods - Ripley Lupine..
 
 - (IBAction)postToFacebook:(id)sender {
     //check twitter service is available on the device
