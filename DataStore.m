@@ -2,8 +2,8 @@
 //  DataStore.m
 //  ThetaTau
 //
-//  Created by David Oramas on 4/18/14.
-//  Copyright (c) 2014 David Oramas. All rights reserved.
+//  Created by Ripley Lupine on 4/18/14.
+//  Copyright (c) 2014 Ripley Lupine. All rights reserved.
 //
 
 #import "DataStore.h"
