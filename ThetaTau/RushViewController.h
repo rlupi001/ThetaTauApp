@@ -2,7 +2,7 @@
 //  RushViewController.h
 //  ThetaTau
 //
-//  Created by David Oramas on 3/25/14.
+//  Created by Ripley Lupine & David Oramas on 3/25/14.
 //  Copyright (c) 2014 David Oramas. All rights reserved.
 //
 
@@ -19,6 +19,8 @@
 
 
 - (IBAction)events:(id)sender;
+
+//Social networking methods by Ripley Lupine
 - (IBAction)postToFacebook:(id)sender;
 - (IBAction)postToTwitter:(id)sender;
 
