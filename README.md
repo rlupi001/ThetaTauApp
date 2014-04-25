@@ -9,7 +9,7 @@ Front End Programming (User Interface and ViewControllers): David Oramas
 
 Work Completed By Ripley Lupine Include:
 
-1. Core Data Entities
+1.) Core Data Entities
 
 These classes hold attributes that will be stored information of every item in CoreData. 
 Also holds methods to convert from UIImage to Transmutable and vice-versa in order to store images.
