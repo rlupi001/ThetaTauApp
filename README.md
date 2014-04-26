@@ -1,7 +1,7 @@
 ThetaTauApp
 ===========
 
-Database App using CoreData for fraternity to record their brothers and board members. Also records stats by major and integrates Facebook and Twitter. Password for authorization is username:OT Pass:123
+Objective-C database App developed in Xcode using the CoreData Framework, and the Social Framework, and targeted for the iOS 6. This application's purpose is to enable a fraternity to record their brothers and board members. Also records stats by major and integrates Facebook and Twitter. Password for authorization is username:OT Pass:123
 
 Back End Programming (CoreData and Entities): Ripley Lupine
 
