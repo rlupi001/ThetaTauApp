@@ -1,8 +1,7 @@
 ThetaTauApp
 ===========
 
-Objective-C database App developed in Xcode using the CoreData Framework, and the Social Framework, and targeted for the   
-iOS 6.1. This application's purpose is to enable a fraternity to record their brothers and board members details and image. Also records stats by major and integrates posting to Facebook and Twitter. Additional features include events map and website view for the fraternity's site. 
+Objective-C database App developed in Xcode using the CoreData Framework, and the Social Framework, and targeted for the iOS 6.1. This application's purpose is to enable a fraternity to record their brothers and board members details and image and enable persistence through CoreData. Also records stats by major and integrates posting to Facebook and Twitter. Additional features include events map and website view for the fraternity's site. 
 
 **Password for authorization prompt is username: OT Pass: 123**
 
